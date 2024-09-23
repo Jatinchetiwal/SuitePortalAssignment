@@ -1,0 +1,27 @@
+{
+  "name": "suite-portal-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive tests/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "lowdb": "^1.0.0",
+    "nodemon": "^3.1.5",
+    "sinon": "^19.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^10.7.3",
+    "supertest": "^7.0.0"
+  }
+}

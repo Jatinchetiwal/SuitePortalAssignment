@@ -1,0 +1,30 @@
+{
+  "maintenanceRequests": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "unitNumber": "101",
+      "serviceType": "Plumbing",
+      "summary": "Leaky faucet",
+      "details": "The kitchen faucet is leaking.",
+      "status": "open"
+    },
+    {
+      "id": "1726753739892",
+      "name": "Neha",
+      "email": "chetiwalneha@gmail.com",
+      "unitNumber": "231",
+      "serviceType": "dwed",
+      "summary": "qcqdwd",
+      "details": "jhdg2djqgdjqgdkqdkhqljd;qjdlkjqkld",
+      "status": "open"
+    }
+  ],
+  "admins": [
+    {
+      "username": "admin",
+      "password": "$2b$10$DQQRMD9dRsjdsenGi5pCFu3I/Go1GBt/bW3rAEyPywVHB6HGoYuh."
+    }
+  ]
+}
